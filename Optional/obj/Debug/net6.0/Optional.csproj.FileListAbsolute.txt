@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\Optional\bin\Debug\net6.0\Optional.exe
+C:\Users\Qarib\Desktop\c#\Optional\bin\Debug\net6.0\Optional.deps.json
+C:\Users\Qarib\Desktop\c#\Optional\bin\Debug\net6.0\Optional.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\Optional\bin\Debug\net6.0\Optional.dll
+C:\Users\Qarib\Desktop\c#\Optional\bin\Debug\net6.0\Optional.pdb
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\Optional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\Optional.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\Optional.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\Optional.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\Optional.dll
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\refint\Optional.dll
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\Optional.pdb
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\Optional.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\Optional\obj\Debug\net6.0\ref\Optional.dll
